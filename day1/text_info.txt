@@ -1,0 +1,8 @@
+Day one Goal: Band Name Generator
+day one of python practice
+first thing i learnt is how to print hellow world on python using print statment 
+second thing is to learn is manipulating strings using
+* /n is used to print to next line 
+* concatinating string using (+)
+* about debugging
+* variables

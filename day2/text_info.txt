@@ -1,0 +1,21 @@
+
+Day 2 of learning Python 
+
+Goal of the day: Build a tip calculator 
+
+Learnings of the day:
+			*Primitive data types 
+				*strings
+				*integers 
+				*float
+				*Booleans
+			*subscripting
+			*type error
+			*type checking 
+			*type conversion
+			*Mathematical operations in python
+			*Number manipulation 
+			*assigning operators
+			*f-string
+building thee goal of the day :The tip calculator 
+

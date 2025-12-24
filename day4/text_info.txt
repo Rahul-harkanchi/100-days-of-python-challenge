@@ -1,0 +1,7 @@
+Day 4 of learning Python
+We will be learning about randomisation and lits in python 
+*creating modules 
+*working with random module
+*lists
+*nested lists
+Task of the Day: Rock, Paper, scissors

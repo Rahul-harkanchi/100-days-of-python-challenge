@@ -1,0 +1,6 @@
+Day 5 of Learning Python 
+Goal of the Day: Strong password generaotr
+Learnings of the Day:
+Loops
+	for loop
+	
